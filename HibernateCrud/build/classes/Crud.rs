@@ -1,0 +1,1 @@
+hibernatecrud.Crud
